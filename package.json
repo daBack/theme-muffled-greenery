@@ -1,0 +1,29 @@
+{
+    "name": "muffled-greenery",
+    "displayName": "Muffled Greenery",
+    "description": "A muffled light for developers who likes the light theme, but not those screaming contrasts. This is candy for your sore eyes! ;) ",
+    "version": "0.0.1",
+    "publisher": "daBack",
+    "author": {
+        "name": "Oscar Bäck"
+    },
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#94A187",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "lcf",
+                "uiTheme": "vs",
+                "path": "./themes/lcf-color-theme.json"
+            }
+        ]
+    }
+}
