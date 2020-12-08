@@ -1,14 +1,13 @@
 {
-	"name": "lcf",
+	"name": "Muffled Greenery",
 	"type": "light",
 	"colors": {
-		"editor.background": "#b6949105",
-		"editor.foreground": "#AA7975"
+		"editor.background": "#df9a5d02",
+		"editor.foreground": "#AA7975",
+		"activityBar.background": "#aa79758c"
 	},
 	"workbench.colorCustomizations": {
-		"activityBar.background": "#94A187",
-		"editorLineNumber.foreground": "#999999",
-		"editorLineNumber.activeForeground": "#555555"
+		"activityBar.background": "#00AA00"
 	},
 	"tokenColors": [
 		{
@@ -61,7 +60,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#AA7975"
+				"foreground": "#4A5C72"
 			}
 		},
 		{
@@ -71,7 +70,7 @@
 				"support.type"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#AA7975"
 			}
 		},
@@ -103,7 +102,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#94A187"
+				"foreground": "#AA7975"
 			}
 		},
 		{
@@ -133,7 +132,7 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "underline bold",
+				"fontStyle": "underline",
 				"foreground": "#4A5C72"
 			}
 		},
@@ -280,7 +279,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#AA7975"
 			}
 		},
 		{
